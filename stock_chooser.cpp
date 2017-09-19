@@ -11,9 +11,6 @@ using namespace std;
 
 int main(void){
 
-  srand(time(NULL));
-  int r = rand()%2;
-
   int num_stocks;
   int num_choices;
 
